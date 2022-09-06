@@ -9,7 +9,7 @@ const settingsForm = document.getElementById("setting-form");
 const difficultySelect = document.getElementById("difficulty");
 
 //list of words
-const words = ["apple", "steer", "eight", "drags", "loving"];
+const words = ["apple", "steer", "eight", "drags", "loving", "Am", "no", "royal", "hari", "tuk", "listening", "depending", "up", "believing", "Enough", "around", "remove", "to", "barton", "agreed", "regret", "Advantage", "estimable", "commanded", "provision.", "Year", "well", "shot", "deny", "shew", "come", "now", "had", "Shall",];
 
 //init word
 let randomWord;
